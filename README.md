@@ -22,4 +22,4 @@
 </ul>
 
 <h1>Usage</h1>
-<p>Allow to store data locally and perform the CRUD operation in this./p>
+<p>Allow to store data locally and perform the CRUD operation in this</p>
